@@ -1,0 +1,23 @@
+.border p{
+display: block;
+padding: 5px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+margin: auto;
+}
+td img{
+    border-radius: 50%;
+}
+h2{
+    color: blue;
+    font-weight: bold;
+}
+.table{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ul li{
+    font-weight: bold;
+    background-color: azure;
+}
